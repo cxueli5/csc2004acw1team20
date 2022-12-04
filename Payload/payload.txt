@@ -1,0 +1,2 @@
+This is a sample payload for CSC2004 ACW1
+We love steganography
